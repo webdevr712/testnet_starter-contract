@@ -1,4 +1,4 @@
-# NFT Demo
+# Contract Starter
 
 This project creates a smart contract and then deploys it to Rinkeby public testnet.
 NFT's can then be minted by sending transaction to the deployed smart contract.
@@ -60,7 +60,7 @@ https://www.trufflesuite.com/ganache
    eg: https://rinkeby-api.opensea.io/asset/0x1e9930Bc5f39dE0515BeC52612bc4510F7B236C0/1/validate
   
 
-   Party!!🥳🥳
+   The end.🥳🥳
 
 
 
